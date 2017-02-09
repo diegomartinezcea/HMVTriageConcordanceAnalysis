@@ -1,0 +1,2 @@
+# HMVTriageConcordanceAnalysis
+Reliable identification of patients with critical and time sensitive conditions by ED triage systems is of utmost importance, especially under conditions of ED crowding. The 5-level emergency severity index (ESI) is used by the majority of EDs in the United States and a growing number of EDs globally. In this study, we sought to characterize patterns of mistriage under ESI, and to identify factors identifiable at time of presentation that were independently associated with under- and over-triage. 
